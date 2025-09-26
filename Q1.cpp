@@ -69,7 +69,7 @@ int main(int argc, char* argv[]) {
 
     return 0;
 }
-//Q1. link count of a directory goes up/down when you add or remove subdirectories, not regular files
+//Q1. link count of a directory goes up or down when you add or remove subdirectories, not regular files.
 
 // output:
 // kloiekim@csce313:~/CSCE313_Participation3$ ./Q1 .
